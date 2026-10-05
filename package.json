@@ -1,0 +1,31 @@
+{
+  "name": "tirtapakuandashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanifrizam/tirtapakuandashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hanifrizam/tirtapakuandashboard/issues"
+  },
+  "homepage": "https://github.com/Hanifrizam/tirtapakuandashboard#readme",
+  "dependencies": {
+    "axios": "^1.20.0",
+    "chart.js": "^4.5.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.18.4"
+  },
+  "devDependencies": {
+    "vite": "^8.3.2"
+  }
+}
